@@ -1,4 +1,6 @@
-# facetsdown
+# This project is just for knowledge purposes only..
+
+## facetsdown
 
 ### A program to download all wallpapers from [facets.la](http://facets.la). Written in python.
 
